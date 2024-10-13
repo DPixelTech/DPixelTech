@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy dh </a> 👋</h1>
+<h1 align="center"> 🍊 !Bienvenido!🍊</h1>
 </div>
 <img src="https://i.postimg.cc/wj3Mnstk/logito.png">
 
@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Calculadora Básica</h3>
+<h3 align="center"> 🥕Calculadora Básica 🥕</h3>
 <div align="center">
 <a href="https://github.com/DPixelTech" target="_blank"><img src="https://i.postimg.cc/3w76d2gX/Captura-de-pantalla-2024-10-12-184307.png" width="400" alt="Calculadora Básica"></a>
 <p>
@@ -31,7 +31,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Adivina Adivinador</h3>
+<h3 align="center">🥕Adivina Adivinador 🥕</h3>
 <div align="center">                                       
 <a href="https://github.com/DPixelTech" target="_blank"><img src="https://i.postimg.cc/tCy7X4TL/Captura-de-pantalla-2024-10-12-205907.png" width="400" alt="Adivina Adivinador"></a>
 <br>
