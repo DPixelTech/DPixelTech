@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> 🍊 !Bienvenido!🍊</h1>
+<h1 align="center"> 🍊 !Welcome!🍊</h1>
 </div>
 <img src="logito.png" alt="Logo" width="1100">
 
