@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> 🍊 !Bienvenido!🍊</h1>
 </div>
-<img src="https://i.postimg.cc/wj3Mnstk/logito.png">
+<img src="logito.png" alt="Logo" width="1100">
 
 [![GitHub followers](https://img.shields.io/github/followers/DPixelTech?style=social)](https://github.com/DPixelTech)
 
