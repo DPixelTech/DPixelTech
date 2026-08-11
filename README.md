@@ -5,13 +5,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DPixelTech?style=social)](https://github.com/DPixelTech)
 
-## Sobre mi
+## About me
 
 - 🎨  I love combining my technical knowledge with the creativity of digital design to create visually appealing and functional projects.
 - 🌟 I'm a curious and self-taught individual, always looking for new ways to improve my skills, both technical and artistic.
 <br>
 
-## Proyectos 
+## Projects
 <table>
 <tr>
 <td width="50%">
