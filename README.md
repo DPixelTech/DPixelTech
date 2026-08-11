@@ -7,9 +7,8 @@
 
 ## Sobre mi
 
-- 🚀 Certificada en Cisco CCST Cybersecurity y desarrollando habilidades en JavaScript.
-- 🎨 Me encanta combinar mis conocimientos técnicos con la creatividad del diseño digital para crear proyectos visualmente atractivos y funcionales.
-- 🌟 Soy una persona curiosa y autodidacta, siempre buscando nuevas formas de mejorar mis habilidades, tanto técnicas como artísticas.
+- 🎨  I love combining my technical knowledge with the creativity of digital design to create visually appealing and functional projects.
+- 🌟 I'm a curious and self-taught individual, always looking for new ways to improve my skills, both technical and artistic.
 <br>
 
 ## Proyectos 
